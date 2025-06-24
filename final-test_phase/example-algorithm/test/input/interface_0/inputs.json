@@ -1,0 +1,16 @@
+[
+    {
+        "file": null,
+        "image": {
+            "name": "the_original_filename_of_the_file_that_was_uploaded.suffix"
+        },
+        "value": null,
+        "interface": {
+            "slug": "hazy-cardiac-ultrasound",
+            "kind": "Image",
+            "super_kind": "Image",
+            "relative_path": "images/hazy-cardiac-ultrasound",
+            "example_value": null
+        }
+    }
+]
